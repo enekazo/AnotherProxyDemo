@@ -1,0 +1,28 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyProxy
+build_property.RootNamespace = MyProxy
+build_property.ProjectDir = c:\Projects\AnotherProxyDemo\ProxyNet\MyProxy\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Projects\AnotherProxyDemo\ProxyNet\MyProxy
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Projects/AnotherProxyDemo/ProxyNet/MyProxy/View/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xBY2NvdW50XEFjY2Vzc0RlbmllZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Projects/AnotherProxyDemo/ProxyNet/MyProxy/View/Account/LoggedOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xBY2NvdW50XExvZ2dlZE91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Projects/AnotherProxyDemo/ProxyNet/MyProxy/View/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xBY2NvdW50XExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

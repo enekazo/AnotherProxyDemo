@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k5EyoXYnpO8GQgMdViop04AxN/kIUhsP3d5gs/hxJsI=",
+  "Source": "MyProxy",
+  "BasePath": "_content/MyProxy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
